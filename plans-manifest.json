@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-04-12",
+  "plans": [
+    {
+      "id": "psalms-proverbs-30",
+      "title": "Psalms & Proverbs in 30 Days",
+      "description": "Read all 31 chapters of Proverbs alongside a thematically paired Psalm each day. A focused month in the Bible's wisdom literature.",
+      "category": "wisdom",
+      "duration_days": 30,
+      "tags": ["wisdom", "devotional", "30-day"],
+      "thumbnail_color": "#8B6914",
+      "file_version": 1,
+      "url": "https://raw.githubusercontent.com/rustycage27/SCRPTR-plans/main/plans/psalms-proverbs-30.json"
+    }
+  ]
+}

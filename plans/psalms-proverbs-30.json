@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "file_version": 1,
+  "id": "psalms-proverbs-30",
+  "title": "Psalms & Proverbs in 30 Days",
+  "description": "Read all 31 chapters of Proverbs alongside a thematically paired Psalm each day. A focused month in the Bible's wisdom literature.",
+  "category": "wisdom",
+  "duration_days": 30,
+  "tags": ["wisdom", "devotional", "30-day"],
+  "thumbnail_color": "#8B6914",
+  "days": [
+    {
+      "day": 1,
+      "title": "The Fear of the Lord",
+      "readings": [
+        { "book_id": 20, "chapter_start": 1, "verse_start": 1, "chapter_end": 1, "verse_end": 33 },
+        { "book_id": 19, "chapter_start": 1, "verse_start": 1, "chapter_end": 1, "verse_end": 6 }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Seeking Wisdom",
+      "readings": [
+        { "book_id": 20, "chapter_start": 2, "verse_start": 1, "chapter_end": 2, "verse_end": 22 },
+        { "book_id": 19, "chapter_start": 111, "verse_start": 1, "chapter_end": 111, "verse_end": 10 }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Trust in the Lord",
+      "readings": [
+        { "book_id": 20, "chapter_start": 3, "verse_start": 1, "chapter_end": 3, "verse_end": 35 },
+        { "book_id": 19, "chapter_start": 37, "verse_start": 1, "chapter_end": 37, "verse_end": 40 }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "The Value of Instruction",
+      "readings": [
+        { "book_id": 20, "chapter_start": 4, "verse_start": 1, "chapter_end": 4, "verse_end": 27 },
+        { "book_id": 19, "chapter_start": 19, "verse_start": 1, "chapter_end": 19, "verse_end": 14 }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Faithfulness in Love",
+      "readings": [
+        { "book_id": 20, "chapter_start": 5, "verse_start": 1, "chapter_end": 5, "verse_end": 23 },
+        { "book_id": 19, "chapter_start": 128, "verse_start": 1, "chapter_end": 128, "verse_end": 6 }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Integrity of the Heart",
+      "readings": [
+        { "book_id": 20, "chapter_start": 6, "verse_start": 1, "chapter_end": 6, "verse_end": 35 },
+        { "book_id": 19, "chapter_start": 15, "verse_start": 1, "chapter_end": 15, "verse_end": 5 }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Guarding the Heart",
+      "readings": [
+        { "book_id": 20, "chapter_start": 7, "verse_start": 1, "chapter_end": 7, "verse_end": 27 },
+        { "book_id": 19, "chapter_start": 101, "verse_start": 1, "chapter_end": 101, "verse_end": 8 }
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Wisdom's Call",
+      "readings": [
+        { "book_id": 20, "chapter_start": 8, "verse_start": 1, "chapter_end": 8, "verse_end": 36 },
+        { "book_id": 19, "chapter_start": 104, "verse_start": 1, "chapter_end": 104, "verse_end": 35 }
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Wisdom and Folly",
+      "readings": [
+        { "book_id": 20, "chapter_start": 9, "verse_start": 1, "chapter_end": 9, "verse_end": 18 },
+        { "book_id": 19, "chapter_start": 14, "verse_start": 1, "chapter_end": 14, "verse_end": 7 }
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Words of the Righteous",
+      "readings": [
+        { "book_id": 20, "chapter_start": 10, "verse_start": 1, "chapter_end": 10, "verse_end": 32 },
+        { "book_id": 19, "chapter_start": 34, "verse_start": 1, "chapter_end": 34, "verse_end": 22 }
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Integrity and Generosity",
+      "readings": [
+        { "book_id": 20, "chapter_start": 11, "verse_start": 1, "chapter_end": 11, "verse_end": 31 },
+        { "book_id": 19, "chapter_start": 112, "verse_start": 1, "chapter_end": 112, "verse_end": 10 }
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Words of Life",
+      "readings": [
+        { "book_id": 20, "chapter_start": 12, "verse_start": 1, "chapter_end": 12, "verse_end": 28 },
+        { "book_id": 19, "chapter_start": 141, "verse_start": 1, "chapter_end": 141, "verse_end": 10 }
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Discipline and Growth",
+      "readings": [
+        { "book_id": 20, "chapter_start": 13, "verse_start": 1, "chapter_end": 13, "verse_end": 25 },
+        { "book_id": 19, "chapter_start": 32, "verse_start": 1, "chapter_end": 32, "verse_end": 11 }
+      ]
+    },
+    {
+      "day": 14,
+      "title": "Building a Life",
+      "readings": [
+        { "book_id": 20, "chapter_start": 14, "verse_start": 1, "chapter_end": 14, "verse_end": 35 },
+        { "book_id": 19, "chapter_start": 127, "verse_start": 1, "chapter_end": 127, "verse_end": 5 }
+      ]
+    },
+    {
+      "day": 15,
+      "title": "A Soft Answer",
+      "readings": [
+        { "book_id": 20, "chapter_start": 15, "verse_start": 1, "chapter_end": 15, "verse_end": 33 },
+        { "book_id": 19, "chapter_start": 4, "verse_start": 1, "chapter_end": 4, "verse_end": 8 }
+      ]
+    },
+    {
+      "day": 16,
+      "title": "The Lord Directs",
+      "readings": [
+        { "book_id": 20, "chapter_start": 16, "verse_start": 1, "chapter_end": 16, "verse_end": 33 },
+        { "book_id": 19, "chapter_start": 139, "verse_start": 1, "chapter_end": 139, "verse_end": 24 }
+      ]
+    },
+    {
+      "day": 17,
+      "title": "A Friend Loves",
+      "readings": [
+        { "book_id": 20, "chapter_start": 17, "verse_start": 1, "chapter_end": 17, "verse_end": 28 },
+        { "book_id": 19, "chapter_start": 133, "verse_start": 1, "chapter_end": 133, "verse_end": 3 }
+      ]
+    },
+    {
+      "day": 18,
+      "title": "A Strong Tower",
+      "readings": [
+        { "book_id": 20, "chapter_start": 18, "verse_start": 1, "chapter_end": 18, "verse_end": 24 },
+        { "book_id": 19, "chapter_start": 91, "verse_start": 1, "chapter_end": 91, "verse_end": 16 }
+      ]
+    },
+    {
+      "day": 19,
+      "title": "Kindness to the Poor",
+      "readings": [
+        { "book_id": 20, "chapter_start": 19, "verse_start": 1, "chapter_end": 19, "verse_end": 29 },
+        { "book_id": 19, "chapter_start": 41, "verse_start": 1, "chapter_end": 41, "verse_end": 13 }
+      ]
+    },
+    {
+      "day": 20,
+      "title": "Purity of Heart",
+      "readings": [
+        { "book_id": 20, "chapter_start": 20, "verse_start": 1, "chapter_end": 20, "verse_end": 30 },
+        { "book_id": 19, "chapter_start": 21, "verse_start": 1, "chapter_end": 21, "verse_end": 13 }
+      ]
+    },
+    {
+      "day": 21,
+      "title": "The King's Heart",
+      "readings": [
+        { "book_id": 20, "chapter_start": 21, "verse_start": 1, "chapter_end": 21, "verse_end": 31 },
+        { "book_id": 19, "chapter_start": 2, "verse_start": 1, "chapter_end": 2, "verse_end": 12 }
+      ]
+    },
+    {
+      "day": 22,
+      "title": "Teach the Next Generation",
+      "readings": [
+        { "book_id": 20, "chapter_start": 22, "verse_start": 1, "chapter_end": 22, "verse_end": 29 },
+        { "book_id": 19, "chapter_start": 78, "verse_start": 1, "chapter_end": 78, "verse_end": 72 }
+      ]
+    },
+    {
+      "day": 23,
+      "title": "Do Not Envy",
+      "readings": [
+        { "book_id": 20, "chapter_start": 23, "verse_start": 1, "chapter_end": 23, "verse_end": 35 },
+        { "book_id": 19, "chapter_start": 73, "verse_start": 1, "chapter_end": 73, "verse_end": 28 }
+      ]
+    },
+    {
+      "day": 24,
+      "title": "Light for the Upright",
+      "readings": [
+        { "book_id": 20, "chapter_start": 24, "verse_start": 1, "chapter_end": 24, "verse_end": 34 },
+        { "book_id": 19, "chapter_start": 27, "verse_start": 1, "chapter_end": 27, "verse_end": 14 }
+      ]
+    },
+    {
+      "day": 25,
+      "title": "The Glory of God",
+      "readings": [
+        { "book_id": 20, "chapter_start": 25, "verse_start": 1, "chapter_end": 25, "verse_end": 28 },
+        { "book_id": 19, "chapter_start": 131, "verse_start": 1, "chapter_end": 131, "verse_end": 3 }
+      ]
+    },
+    {
+      "day": 26,
+      "title": "The Folly of Fools",
+      "readings": [
+        { "book_id": 20, "chapter_start": 26, "verse_start": 1, "chapter_end": 26, "verse_end": 28 },
+        { "book_id": 19, "chapter_start": 53, "verse_start": 1, "chapter_end": 53, "verse_end": 6 }
+      ]
+    },
+    {
+      "day": 27,
+      "title": "Iron Sharpens Iron",
+      "readings": [
+        { "book_id": 20, "chapter_start": 27, "verse_start": 1, "chapter_end": 27, "verse_end": 27 },
+        { "book_id": 19, "chapter_start": 16, "verse_start": 1, "chapter_end": 16, "verse_end": 11 }
+      ]
+    },
+    {
+      "day": 28,
+      "title": "Bold as a Lion",
+      "readings": [
+        { "book_id": 20, "chapter_start": 28, "verse_start": 1, "chapter_end": 28, "verse_end": 28 },
+        { "book_id": 19, "chapter_start": 25, "verse_start": 1, "chapter_end": 25, "verse_end": 22 }
+      ]
+    },
+    {
+      "day": 29,
+      "title": "Pride and Humility",
+      "readings": [
+        { "book_id": 20, "chapter_start": 29, "verse_start": 1, "chapter_end": 29, "verse_end": 27 },
+        { "book_id": 19, "chapter_start": 10, "verse_start": 1, "chapter_end": 10, "verse_end": 18 }
+      ]
+    },
+    {
+      "day": 30,
+      "title": "Words of Agur and a Worthy Woman",
+      "readings": [
+        { "book_id": 20, "chapter_start": 30, "verse_start": 1, "chapter_end": 30, "verse_end": 33 },
+        { "book_id": 20, "chapter_start": 31, "verse_start": 1, "chapter_end": 31, "verse_end": 31 },
+        { "book_id": 19, "chapter_start": 103, "verse_start": 1, "chapter_end": 103, "verse_end": 22 }
+      ]
+    }
+  ]
+}
