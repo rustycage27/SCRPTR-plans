@@ -1,0 +1,4824 @@
+{
+  "schema_version": 1,
+  "file_version": 1,
+  "id": "through-the-bible-chronologically-in-a-year",
+  "title": "Through the Bible Chronologically in a Year",
+  "description": "This is a 365-day chronological Bible reading plan that arranges scripture in the order events occurred historically, not canonical book order. The goal is for the reader to experience the Bible as a single unfolding story.",
+  "long_description": "Experience an intellectually compelling way to read the Bible! Seeing Job alongside the patriarchs, watching the Psalms land in the middle of Samuel and Kings, the prophets contextualized against the monarchy they were speaking into — it reframes the whole narrative.",
+  "category": "complete",
+  "duration_days": 365,
+  "tags": [
+    "comprehensive"
+  ],
+  "thumbnail_color": "#6B4F2A",
+  "days": [
+    {
+      "day": 1,
+      "title": "God Speaks Light Into Darkness",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "The Fall and Its Aftermath",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "The Flood Covers the Earth",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 6,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Rainbow Covenant and Babel",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "A Man Tested Beyond Measure",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Job's Friends Offer Cold Comfort",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Suffering Cries Out for Answers",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Job Holds Fast to His Integrity",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "title": "My Redeemer Lives Declares Job",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Where Were You at Creation",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Elihu Speaks of God's Majesty",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "title": "God Answers from the Whirlwind",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 32,
+          "verse_start": 1,
+          "chapter_end": 37,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "title": "The Lord Restores Job's Fortunes",
+      "readings": [
+        {
+          "book_id": 18,
+          "chapter_start": 38,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "title": "Abram Called Out of Ur",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "title": "Covenant Sealed With Abraham",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "title": "Sodom Falls, Isaac Is Born",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "title": "Abraham Tested on the Mountain",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 67
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "title": "Isaac and Jacob's Birthright",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "title": "Jacob Wrestles and Is Renamed",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 32,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "title": "Jacob's Family Grows in Canaan",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 33,
+          "verse_start": 1,
+          "chapter_end": 36,
+          "verse_end": 43
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "title": "Joseph - Dreamer Sold Into Egypt",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 37,
+          "verse_start": 1,
+          "chapter_end": 40,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "title": "Joseph Rises to Rule Egypt",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 41,
+          "verse_start": 1,
+          "chapter_end": 43,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "title": "Joseph Reveals Himself to Brothers",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 44,
+          "verse_start": 1,
+          "chapter_end": 47,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "title": "Jacob Blesses His Sons Before Death",
+      "readings": [
+        {
+          "book_id": 1,
+          "chapter_start": 48,
+          "verse_start": 1,
+          "chapter_end": 50,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "title": "Israel Enslaved, Moses Is Born",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "title": "Ten Plagues Strike Egypt",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "title": "Passover and the Exodus Begin",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "title": "Red Sea Parts, Israel Escapes",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "title": "God Descends on Mount Sinai",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "title": "The Law Covenant and Altar",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "title": "Plans for the Tabernacle Given",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 29,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "title": "Golden Calf and Broken Covenant",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 30,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "title": "The Tabernacle Is Constructed",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 34,
+          "verse_start": 1,
+          "chapter_end": 37,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "title": "The Glory Fills the Dwelling",
+      "readings": [
+        {
+          "book_id": 2,
+          "chapter_start": 38,
+          "verse_start": 1,
+          "chapter_end": 40,
+          "verse_end": 38
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "title": "Offerings and Priestly Consecration",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "title": "Atonement Laws, Cleanness Rules",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "title": "Aaron's Sons Offer Strange Fire",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 8
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "title": "Clean and Unclean Distinctions",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 33
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "title": "The Day of Atonement Instituted",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "title": "Holiness Code for God's People",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 33
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "title": "Feasts Sabbath and Jubilee Laws",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 55
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "title": "Blessings Curses and Vows",
+      "readings": [
+        {
+          "book_id": 3,
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "title": "Israel Counted for the Journey",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 51
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "title": "Levites Duties and Camp Order",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "title": "Dedication Offerings and Passover",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 46,
+      "title": "Israel Departs from Sinai",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 47,
+      "title": "Spies Return with Mixed Reports",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 41
+        }
+      ]
+    },
+    {
+      "day": 48,
+      "title": "Rebellion Korah's Fate and Signs",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 49,
+      "title": "Water from Rock Balaam's Donkey",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 41
+        }
+      ]
+    },
+    {
+      "day": 50,
+      "title": "Balaam Blesses Instead of Curses",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 26,
+          "verse_end": 65
+        }
+      ]
+    },
+    {
+      "day": 51,
+      "title": "Vows Inheritance and Final Census",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 30,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 52,
+      "title": "Battles Offerings and Boundaries",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 31,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 56
+        }
+      ]
+    },
+    {
+      "day": 53,
+      "title": "Cities Vows and Final Commands",
+      "readings": [
+        {
+          "book_id": 4,
+          "chapter_start": 34,
+          "verse_start": 1,
+          "chapter_end": 36,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 54,
+      "title": "Moses Recounts the Wilderness Way",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 49
+        }
+      ]
+    },
+    {
+      "day": 55,
+      "title": "The Great Shema Love the Lord",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 56,
+      "title": "Remember and Do Not Forget",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 57,
+      "title": "Laws of Worship and Justice",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 58,
+      "title": "Judges Prophets and Holy War",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 59,
+      "title": "Social Laws and Community Life",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 60,
+      "title": "Blessings for Obedience Curses for Sin",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 30,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 61,
+      "title": "Moses Charges Joshua and Israel",
+      "readings": [
+        {
+          "book_id": 5,
+          "chapter_start": 31,
+          "verse_start": 1,
+          "chapter_end": 34,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "day": 62,
+      "title": "Jordan Crossed, Jericho Falls",
+      "readings": [
+        {
+          "book_id": 6,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "title": "Achan's Sin and Ai's Defeat",
+      "readings": [
+        {
+          "book_id": 6,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 64,
+      "title": "Sun Stands Still Southern Campaign",
+      "readings": [
+        {
+          "book_id": 6,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 65,
+      "title": "Land Divided Among the Tribes",
+      "readings": [
+        {
+          "book_id": 6,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 66,
+      "title": "Cities of Refuge and Inheritance",
+      "readings": [
+        {
+          "book_id": 6,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 45
+        }
+      ]
+    },
+    {
+      "day": 67,
+      "title": "Joshua's Farewell Choose This Day",
+      "readings": [
+        {
+          "book_id": 6,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 33
+        }
+      ]
+    },
+    {
+      "day": 68,
+      "title": "Cycles of Apostasy Begin",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 69,
+      "title": "Deborah and Barak Defeat Sisera",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 70,
+      "title": "Gideon Defeats Midian's Vast Army",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 57
+        }
+      ]
+    },
+    {
+      "day": 71,
+      "title": "Jephthah's Vow and Its Cost",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 72,
+      "title": "Samson, Nazirite Raised to Fight",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 73,
+      "title": "Samson Falls and Pulls Pillars",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 74,
+      "title": "Chaos When Israel Had No King",
+      "readings": [
+        {
+          "book_id": 7,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 75,
+      "title": "Ruth Loyal Love in Dark Days",
+      "readings": [
+        {
+          "book_id": 8,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 76,
+      "title": "Boaz Redeems Ruth and Naomi",
+      "readings": [
+        {
+          "book_id": 8,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 77,
+      "title": "Hannah Prays, Samuel Is Born",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 78,
+      "title": "Ark Captured, Eli's House Falls",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 79,
+      "title": "Israel Demands a King",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 80,
+      "title": "Saul Anointed Then Rejected",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 81,
+      "title": "David Anointed, Goliath Falls",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 82,
+      "title": "Saul Hunts David in the Wilderness",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "title": "A Prayer When Enemies Surround",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 59,
+          "verse_start": 1,
+          "chapter_end": 59,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 84,
+      "title": "David Flees Among the Philistines",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 85,
+      "title": "Trusting God Among Enemies",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 56,
+          "verse_start": 1,
+          "chapter_end": 56,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 86,
+      "title": "I Will Bless the Lord Always",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 34,
+          "verse_start": 1,
+          "chapter_end": 34,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 87,
+      "title": "My Cry From the Cave of Adullam",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 142,
+          "verse_start": 1,
+          "chapter_end": 142,
+          "verse_end": 7
+        }
+      ]
+    },
+    {
+      "day": 88,
+      "title": "David Spares Saul in the Cave",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 89,
+      "title": "Shadow of Your Wings Shelter Me",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 57,
+          "verse_start": 1,
+          "chapter_end": 57,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 90,
+      "title": "David Spares Saul Again",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 26,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 91,
+      "title": "Save Me by Your Name O God",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 54,
+          "verse_start": 1,
+          "chapter_end": 54,
+          "verse_end": 7
+        }
+      ]
+    },
+    {
+      "day": 92,
+      "title": "Saul Falls, Philistines Triumph",
+      "readings": [
+        {
+          "book_id": 9,
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 93,
+      "title": "David Mourns, Becomes King",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 39
+        }
+      ]
+    },
+    {
+      "day": 94,
+      "title": "Jerusalem Captured, Ark Brought Up",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 95,
+      "title": "God's Covenant with David Forever",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 96,
+      "title": "How Majestic Is Your Name Lord",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "day": 97,
+      "title": "The Lord Is My Shepherd",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 23,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 98,
+      "title": "Lift Up Your Heads O Gates",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "day": 99,
+      "title": "David Sins with Bathsheba",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 100,
+      "title": "Have Mercy on Me O God",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 51,
+          "verse_start": 1,
+          "chapter_end": 51,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "day": 101,
+      "title": "Absalom's Rebellion Tears David",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 37
+        }
+      ]
+    },
+    {
+      "day": 102,
+      "title": "In the Wilderness Thirsting for God",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 63,
+          "verse_start": 1,
+          "chapter_end": 63,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 103,
+      "title": "Lord How Many Are My Foes",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 8
+        }
+      ]
+    },
+    {
+      "day": 104,
+      "title": "David Restored to Jerusalem",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 43
+        }
+      ]
+    },
+    {
+      "day": 105,
+      "title": "David's Final Days and Census",
+      "readings": [
+        {
+          "book_id": 10,
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 106,
+      "title": "The Lord Is My Rock and Fortress",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 50
+        }
+      ]
+    },
+    {
+      "day": 107,
+      "title": "A Great King's Worship and Praise",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 108,
+      "title": "My God Why Have You Forsaken",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 109,
+      "title": "The Lord Hears the Brokenhearted",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "day": 110,
+      "title": "Wait on the Lord Be Strong",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 29,
+          "verse_start": 1,
+          "chapter_end": 32,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 111,
+      "title": "Solomon Anointed David's Charge",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "day": 112,
+      "title": "Blessed Is the One Forgiven",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 33,
+          "verse_start": 1,
+          "chapter_end": 34,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 113,
+      "title": "Solomon Asks for Wisdom",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 114,
+      "title": "God's Name Dwells in Jerusalem",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 115,
+      "title": "The Temple of God Is Built",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 51
+        }
+      ]
+    },
+    {
+      "day": 116,
+      "title": "The Ark Brought in Glory Fills",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 117,
+      "title": "Solomon's Splendor and Wisdom",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 118,
+      "title": "Proverbs of Solomon Trust God",
+      "readings": [
+        {
+          "book_id": 20,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 119,
+      "title": "Wisdom Calls in the Streets",
+      "readings": [
+        {
+          "book_id": 20,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 120,
+      "title": "A Good Wife and Wise Words",
+      "readings": [
+        {
+          "book_id": 20,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 121,
+      "title": "The Righteous Walk in Integrity",
+      "readings": [
+        {
+          "book_id": 20,
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 122,
+      "title": "Plans Humility and Wise Counsel",
+      "readings": [
+        {
+          "book_id": 20,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 123,
+      "title": "Agur and Lemuel's Words of Life",
+      "readings": [
+        {
+          "book_id": 20,
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 124,
+      "title": "Vanity of Vanities, All Is Vapor",
+      "readings": [
+        {
+          "book_id": 21,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 125,
+      "title": "A Time for Everything Under Heaven",
+      "readings": [
+        {
+          "book_id": 21,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 126,
+      "title": "Fear God and Keep His Commands",
+      "readings": [
+        {
+          "book_id": 21,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 127,
+      "title": "Let Him Kiss Me Love Song",
+      "readings": [
+        {
+          "book_id": 22,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 128,
+      "title": "His Banner Over Me Is Love",
+      "readings": [
+        {
+          "book_id": 22,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 129,
+      "title": "Solomon Falls, Kingdom Divides",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 33
+        }
+      ]
+    },
+    {
+      "day": 130,
+      "title": "Psalms of Ascent and Worship",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 120,
+          "verse_start": 1,
+          "chapter_end": 124,
+          "verse_end": 8
+        }
+      ]
+    },
+    {
+      "day": 131,
+      "title": "The Kingdom Tears in Two",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 132,
+      "title": "Jeroboam's Calves and God's Word",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 133,
+      "title": "Elijah and the Drought Begins",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 134,
+      "title": "Fire Falls on Carmel Elijah Flees",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 135,
+      "title": "Naboth's Vineyard, Ahab Condemned",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 136,
+      "title": "Jehoshaphat Reigns, Ahab Falls",
+      "readings": [
+        {
+          "book_id": 11,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 53
+        }
+      ]
+    },
+    {
+      "day": 137,
+      "title": "Jehoshaphat's Reforms in Judah",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 17,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 37
+        }
+      ]
+    },
+    {
+      "day": 138,
+      "title": "Elijah Taken Up, Elisha Ministers",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 139,
+      "title": "Elisha's Miracles Multiply",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 140,
+      "title": "Siege Lifted, Naaman Healed",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 6,
+          "verse_start": 24,
+          "chapter_end": 8,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 141,
+      "title": "Edom Rebels, Obadiah Sees Vision",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 8,
+          "verse_start": 16,
+          "chapter_end": 8,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 142,
+      "title": "Nations Around Edom Judged",
+      "readings": [
+        {
+          "book_id": 31,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 143,
+      "title": "Jehu Anointed, Ahab's Line Ends",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "day": 144,
+      "title": "Joash Repairs the Temple",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 145,
+      "title": "Chronicles of Joash's Faithfulness",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 146,
+      "title": "Joel, Locusts and the Day of the Lord",
+      "readings": [
+        {
+          "book_id": 29,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 147,
+      "title": "God Restores the Years Locusts Ate",
+      "readings": [
+        {
+          "book_id": 29,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 148,
+      "title": "Jeroboam II and Israel's Pride",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 149,
+      "title": "Jonah Runs From God's Call",
+      "readings": [
+        {
+          "book_id": 32,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "day": 150,
+      "title": "Nineveh Repents at Jonah's Word",
+      "readings": [
+        {
+          "book_id": 32,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 151,
+      "title": "Amos Roars from Tekoa",
+      "readings": [
+        {
+          "book_id": 30,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 152,
+      "title": "Amos Condemns Israel's Injustice",
+      "readings": [
+        {
+          "book_id": 30,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 153,
+      "title": "Seek Good Not Evil, Restore Justice",
+      "readings": [
+        {
+          "book_id": 30,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 154,
+      "title": "Uzziah to Jotham, Judah's Kings",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "day": 155,
+      "title": "Isaiah Called in the Temple Vision",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 156,
+      "title": "Holy Holy Holy, Isaiah Sent",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 157,
+      "title": "A Virgin Shall Conceive Immanuel",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 158,
+      "title": "A Child Born, Wonderful Counselor",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 159,
+      "title": "Nations Fall Before God's Glory",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 160,
+      "title": "Woe to the Nations Isaiah Warns",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 161,
+      "title": "Assyria Falls, Jerusalem Stands",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 23,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 162,
+      "title": "Hosea Marries a Wayward Wife",
+      "readings": [
+        {
+          "book_id": 28,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "day": 163,
+      "title": "Israel Is Like an Unfaithful Vine",
+      "readings": [
+        {
+          "book_id": 28,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 164,
+      "title": "Return O Israel to the Lord",
+      "readings": [
+        {
+          "book_id": 28,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "day": 165,
+      "title": "Hosea's Final Call to Return",
+      "readings": [
+        {
+          "book_id": 28,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "day": 166,
+      "title": "Israel Falls, Samaria Is Exiled",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 41
+        }
+      ]
+    },
+    {
+      "day": 167,
+      "title": "Hezekiah Prays, Assyria Repelled",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 37
+        }
+      ]
+    },
+    {
+      "day": 168,
+      "title": "Comfort My People in Exile",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 31,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "day": 169,
+      "title": "The Desert Blooms, God Comes",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 32,
+          "verse_start": 1,
+          "chapter_end": 35,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "day": 170,
+      "title": "Isaiah and Hezekiah Face Assyria",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 36,
+          "verse_start": 1,
+          "chapter_end": 39,
+          "verse_end": 8
+        }
+      ]
+    },
+    {
+      "day": 171,
+      "title": "Hezekiah's Illness and Recovery",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 172,
+      "title": "Comfort My People, God Is Coming",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 40,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 173,
+      "title": "Fear Not, I Am With You Always",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 43,
+          "verse_start": 1,
+          "chapter_end": 46,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 174,
+      "title": "Cyrus Named Before His Birth",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 47,
+          "verse_start": 1,
+          "chapter_end": 50,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 175,
+      "title": "The Suffering Servant Takes Our Pain",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 51,
+          "verse_start": 1,
+          "chapter_end": 55,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 176,
+      "title": "Justice for All Nations, Isaiah Ends",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 56,
+          "verse_start": 1,
+          "chapter_end": 60,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 177,
+      "title": "Spirit of the Lord Upon Me",
+      "readings": [
+        {
+          "book_id": 23,
+          "chapter_start": 61,
+          "verse_start": 1,
+          "chapter_end": 66,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 178,
+      "title": "Micah Speaks to Judah's Leaders",
+      "readings": [
+        {
+          "book_id": 33,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "day": 179,
+      "title": "Bethlehem's Ruler and God's Case",
+      "readings": [
+        {
+          "book_id": 33,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 180,
+      "title": "Chronicles of Hezekiah and Manasseh",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 181,
+      "title": "Josiah Reforms and the Book Found",
+      "readings": [
+        {
+          "book_id": 12,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 23,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 182,
+      "title": "Josiah's Great Passover Zephaniah Warns",
+      "readings": [
+        {
+          "book_id": 14,
+          "chapter_start": 34,
+          "verse_start": 1,
+          "chapter_end": 35,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 183,
+      "title": "The Day of the Lord Is Near",
+      "readings": [
+        {
+          "book_id": 36,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 184,
+      "title": "Seek the Lord, Sing Zion's Daughter",
+      "readings": [
+        {
+          "book_id": 36,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 185,
+      "title": "Nahum's Vision of Nineveh's Fall",
+      "readings": [
+        {
+          "book_id": 34,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "day": 186,
+      "title": "Jeremiah Called While Still Young",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 187,
+      "title": "Forsaken Fountain, Broken Cisterns",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 188,
+      "title": "Habakkuk Cries Why Lord Why",
+      "readings": [
+        {
+          "book_id": 35,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 189,
+      "title": "Though the Fig Tree Does Not Blossom",
+      "readings": [
+        {
+          "book_id": 35,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "day": 190,
+      "title": "Jeremiah at the Temple Gate",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 191,
+      "title": "Jeremiah's Lament and the Yoke",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 192,
+      "title": "Jeremiah Persecuted and Imprisoned",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 193,
+      "title": "The Potter and the Broken Flask",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 194,
+      "title": "Babylon's Siege, Jerusalem's Doom",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "day": 195,
+      "title": "The Branch of David Shall Come",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 29,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 196,
+      "title": "A New Covenant Written in Hearts",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 30,
+          "verse_start": 1,
+          "chapter_end": 33,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 197,
+      "title": "Jeremiah Buys a Field in Siege",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 34,
+          "verse_start": 1,
+          "chapter_end": 38,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 198,
+      "title": "Jerusalem Falls, Jeremiah Weeps",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 39,
+          "verse_start": 1,
+          "chapter_end": 42,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 199,
+      "title": "Jeremiah in Egypt, Nations Judged",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 43,
+          "verse_start": 1,
+          "chapter_end": 49,
+          "verse_end": 39
+        }
+      ]
+    },
+    {
+      "day": 200,
+      "title": "Babylon Will Fall Says the Lord",
+      "readings": [
+        {
+          "book_id": 24,
+          "chapter_start": 50,
+          "verse_start": 1,
+          "chapter_end": 52,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 201,
+      "title": "Jerusalem Fallen, Who Will Comfort",
+      "readings": [
+        {
+          "book_id": 25,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 202,
+      "title": "Great Is Your Faithfulness, O Lord",
+      "readings": [
+        {
+          "book_id": 25,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 203,
+      "title": "By the Waters of Babylon Psalms",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 137,
+          "verse_start": 1,
+          "chapter_end": 137,
+          "verse_end": 9
+        }
+      ]
+    },
+    {
+      "day": 204,
+      "title": "How Long O Lord, Forgotten Forever",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 74,
+          "verse_start": 1,
+          "chapter_end": 74,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 205,
+      "title": "O God the Nations Have Invaded",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 79,
+          "verse_start": 1,
+          "chapter_end": 80,
+          "verse_end": 19
+        }
+      ]
+    },
+    {
+      "day": 206,
+      "title": "Lord You Have Been Our Dwelling",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 89,
+          "verse_start": 1,
+          "chapter_end": 89,
+          "verse_end": 52
+        }
+      ]
+    },
+    {
+      "day": 207,
+      "title": "Daniel Taken Into Babylon's Court",
+      "readings": [
+        {
+          "book_id": 27,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 49
+        }
+      ]
+    },
+    {
+      "day": 208,
+      "title": "Fiery Furnace Cannot Consume Them",
+      "readings": [
+        {
+          "book_id": 27,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 37
+        }
+      ]
+    },
+    {
+      "day": 209,
+      "title": "Ezekiel Called by the River Chebar",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 210,
+      "title": "Jerusalem's Sin Enacted in Vision",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 211,
+      "title": "Glory Departs the Temple",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 212,
+      "title": "Parables of Israel's Unfaithfulness",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 8
+        }
+      ]
+    },
+    {
+      "day": 213,
+      "title": "The Vine Branch and the Allegory",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 18,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 214,
+      "title": "Lamentation for Israel's Princes",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 215,
+      "title": "Sins of Jerusalem Catalogued",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 216,
+      "title": "Oracles Against Surrounding Nations",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 25,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 217,
+      "title": "Tyre and Egypt God Will Judge",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 29,
+          "verse_start": 1,
+          "chapter_end": 32,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 218,
+      "title": "Watchman on the Wall Ezekiel",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 33,
+          "verse_start": 1,
+          "chapter_end": 35,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 219,
+      "title": "The Dry Bones Valley Shall Live",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 36,
+          "verse_start": 1,
+          "chapter_end": 37,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 220,
+      "title": "Gog, Magog and the New Temple",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 38,
+          "verse_start": 1,
+          "chapter_end": 40,
+          "verse_end": 49
+        }
+      ]
+    },
+    {
+      "day": 221,
+      "title": "The Glorious Temple, Ezekiel Sees",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 41,
+          "verse_start": 1,
+          "chapter_end": 44,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 222,
+      "title": "River of Life from the Temple",
+      "readings": [
+        {
+          "book_id": 26,
+          "chapter_start": 45,
+          "verse_start": 1,
+          "chapter_end": 48,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 223,
+      "title": "Daniel and the Writing on the Wall",
+      "readings": [
+        {
+          "book_id": 27,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 224,
+      "title": "Daniel's Visions of Four Beasts",
+      "readings": [
+        {
+          "book_id": 27,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 225,
+      "title": "Daniel Prays, Seventy Weeks Revealed",
+      "readings": [
+        {
+          "book_id": 27,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 226,
+      "title": "The Great Conflict at the End",
+      "readings": [
+        {
+          "book_id": 27,
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 227,
+      "title": "Hear My Prayer in My Distress",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 85,
+          "verse_start": 1,
+          "chapter_end": 85,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 228,
+      "title": "A Prayer of the Afflicted One",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 102,
+          "verse_start": 1,
+          "chapter_end": 102,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 229,
+      "title": "Praise God Ye Exiles and Pilgrims",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 125,
+          "verse_start": 1,
+          "chapter_end": 128,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 230,
+      "title": "Those Who Sow in Tears Shall Reap",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 129,
+          "verse_start": 1,
+          "chapter_end": 134,
+          "verse_end": 3
+        }
+      ]
+    },
+    {
+      "day": 231,
+      "title": "Cyrus Decrees the Exiles Return",
+      "readings": [
+        {
+          "book_id": 15,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 232,
+      "title": "Haggai Calls to Build the Temple",
+      "readings": [
+        {
+          "book_id": 37,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 233,
+      "title": "Zechariah Sees Eight Night Visions",
+      "readings": [
+        {
+          "book_id": 38,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "day": 234,
+      "title": "Not by Might but by My Spirit",
+      "readings": [
+        {
+          "book_id": 38,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 235,
+      "title": "Fasting and Future Feasts Promised",
+      "readings": [
+        {
+          "book_id": 38,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 236,
+      "title": "Temple Rebuilt Despite Opposition",
+      "readings": [
+        {
+          "book_id": 15,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 237,
+      "title": "Zechariah's Coming King Enters Humbly",
+      "readings": [
+        {
+          "book_id": 38,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 238,
+      "title": "The One They Pierced Will Mourn",
+      "readings": [
+        {
+          "book_id": 38,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 239,
+      "title": "Esther Chosen for Such a Time",
+      "readings": [
+        {
+          "book_id": 17,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 240,
+      "title": "Haman Falls, Esther Saves Her People",
+      "readings": [
+        {
+          "book_id": 17,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 3
+        }
+      ]
+    },
+    {
+      "day": 241,
+      "title": "Ezra Returns with the Law",
+      "readings": [
+        {
+          "book_id": 15,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 44
+        }
+      ]
+    },
+    {
+      "day": 242,
+      "title": "Mixed Marriages Confessed and Ended",
+      "readings": [
+        {
+          "book_id": 15,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 44
+        }
+      ]
+    },
+    {
+      "day": 243,
+      "title": "Nehemiah Prays and Rebuilds Walls",
+      "readings": [
+        {
+          "book_id": 16,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 244,
+      "title": "Walls Rise Against Opposition",
+      "readings": [
+        {
+          "book_id": 16,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 245,
+      "title": "Ezra Reads the Law People Weep",
+      "readings": [
+        {
+          "book_id": 16,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "day": 246,
+      "title": "Nehemiah's Final Reforms",
+      "readings": [
+        {
+          "book_id": 16,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 247,
+      "title": "Malachi Disputes with a Faithless People",
+      "readings": [
+        {
+          "book_id": 39,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 248,
+      "title": "The Sun of Righteousness Shall Rise",
+      "readings": [
+        {
+          "book_id": 39,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 249,
+      "title": "Remaining Psalms, Praise the Lord",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "day": 250,
+      "title": "Blessed Are Those Who Trust God",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 251,
+      "title": "God Is Our Refuge and Strength",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 252,
+      "title": "The Fool Says There Is No God",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 253,
+      "title": "Who May Ascend the Lord's Hill",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 35,
+          "verse_start": 1,
+          "chapter_end": 38,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 254,
+      "title": "Do Not Fret, Trust in the Lord",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 39,
+          "verse_start": 1,
+          "chapter_end": 41,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 255,
+      "title": "As the Deer Pants for Water",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 42,
+          "verse_start": 1,
+          "chapter_end": 46,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 256,
+      "title": "God Reigns Over All Nations",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 47,
+          "verse_start": 1,
+          "chapter_end": 50,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 257,
+      "title": "A Pure Heart Create in Me",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 52,
+          "verse_start": 1,
+          "chapter_end": 55,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 258,
+      "title": "Praise God in His Sanctuary",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 58,
+          "verse_start": 1,
+          "chapter_end": 62,
+          "verse_end": 12
+        }
+      ]
+    },
+    {
+      "day": 259,
+      "title": "Nations Bow Before the Living God",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 64,
+          "verse_start": 1,
+          "chapter_end": 68,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 260,
+      "title": "Save Me O God Hear My Plea",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 69,
+          "verse_start": 1,
+          "chapter_end": 73,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 261,
+      "title": "God of Gods, Wonderful in Zion",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 75,
+          "verse_start": 1,
+          "chapter_end": 78,
+          "verse_end": 72
+        }
+      ]
+    },
+    {
+      "day": 262,
+      "title": "Shepherd of Israel Hear Us Restore",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 81,
+          "verse_start": 1,
+          "chapter_end": 88,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 263,
+      "title": "He Who Dwells in Shelter of Most High",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 90,
+          "verse_start": 1,
+          "chapter_end": 92,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 264,
+      "title": "The Lord Reigns Clothed with Majesty",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 93,
+          "verse_start": 1,
+          "chapter_end": 100,
+          "verse_end": 5
+        }
+      ]
+    },
+    {
+      "day": 265,
+      "title": "Bless the Lord O My Soul",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 101,
+          "verse_start": 1,
+          "chapter_end": 106,
+          "verse_end": 48
+        }
+      ]
+    },
+    {
+      "day": 266,
+      "title": "Give Thanks for His Steadfast Love",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 107,
+          "verse_start": 1,
+          "chapter_end": 112,
+          "verse_end": 10
+        }
+      ]
+    },
+    {
+      "day": 267,
+      "title": "I Love the Lord He Heard My Cry",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 113,
+          "verse_start": 1,
+          "chapter_end": 119,
+          "verse_end": 48
+        }
+      ]
+    },
+    {
+      "day": 268,
+      "title": "Your Word Is a Lamp to My Feet",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 119,
+          "verse_start": 49,
+          "chapter_end": 119,
+          "verse_end": 176
+        }
+      ]
+    },
+    {
+      "day": 269,
+      "title": "Praise God From All Ends of Earth",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 135,
+          "verse_start": 1,
+          "chapter_end": 136,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 270,
+      "title": "Hallelujah, Praise God in His Sanctuary",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 138,
+          "verse_start": 1,
+          "chapter_end": 145,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 271,
+      "title": "Let Everything That Breathes Praise",
+      "readings": [
+        {
+          "book_id": 19,
+          "chapter_start": 146,
+          "verse_start": 1,
+          "chapter_end": 150,
+          "verse_end": 6
+        }
+      ]
+    },
+    {
+      "day": 272,
+      "title": "Luke's Prologue",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 25
+        },
+        {
+          "book_id": 43,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 273,
+      "title": "Gabriel Announces Jesus's Birth",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 1,
+          "verse_start": 26,
+          "chapter_end": 2,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 274,
+      "title": "Jesus Born in Bethlehem's Manger",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 275,
+      "title": "Magi Come, John Prepares the Way",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 11
+        },
+        {
+          "book_id": 41,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 276,
+      "title": "Jesus Baptized and Tempted",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 277,
+      "title": "Jesus Calls Disciples Performs Signs",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 1,
+          "verse_start": 19,
+          "chapter_end": 2,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 278,
+      "title": "Born Again, Nicodemus, John's Witness",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "day": 279,
+      "title": "Jesus Rejected at Nazareth, Heals",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 4,
+          "verse_start": 14,
+          "chapter_end": 5,
+          "verse_end": 39
+        }
+      ]
+    },
+    {
+      "day": 280,
+      "title": "Sermon on the Mount Begins",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 281,
+      "title": "Healing and the Cost of Following",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 9,
+          "verse_end": 38
+        }
+      ]
+    },
+    {
+      "day": 282,
+      "title": "Jesus Sends Out Twelve Disciples",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 10,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 283,
+      "title": "Sabbath, Controversies and Parables",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 58
+        }
+      ]
+    },
+    {
+      "day": 284,
+      "title": "John Beheaded, Feeding Five Thousand",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 39
+        },
+        {
+          "book_id": 43,
+          "chapter_start": 6,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 71
+        }
+      ]
+    },
+    {
+      "day": 285,
+      "title": "Peter's Confession, Transfiguration",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 27
+        },
+        {
+          "book_id": 41,
+          "chapter_start": 8,
+          "verse_start": 27,
+          "chapter_end": 9,
+          "verse_end": 50
+        }
+      ]
+    },
+    {
+      "day": 286,
+      "title": "Jesus Sends Seventy Two Out",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 9,
+          "verse_start": 51,
+          "chapter_end": 11,
+          "verse_end": 54
+        }
+      ]
+    },
+    {
+      "day": 287,
+      "title": "Teaching on Prayer, Worry and Treasure",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 288,
+      "title": "Parables of Lost Sheep, Coin, Son",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 289,
+      "title": "Jesus at the Feast in Jerusalem",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 59
+        }
+      ]
+    },
+    {
+      "day": 290,
+      "title": "I Am the Good Shepherd and Light",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "day": 291,
+      "title": "Lazarus Raised, the People Believe",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 57
+        }
+      ]
+    },
+    {
+      "day": 292,
+      "title": "The Rich Ruler, Ten Lepers Healed",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 17,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 293,
+      "title": "Triumphal Entry and Temple Cleansed",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 14
+        },
+        {
+          "book_id": 43,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 12,
+          "verse_end": 50
+        }
+      ]
+    },
+    {
+      "day": 294,
+      "title": "Questions in the Temple Woes",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 22,
+          "verse_start": 15,
+          "chapter_end": 23,
+          "verse_end": 39
+        }
+      ]
+    },
+    {
+      "day": 295,
+      "title": "Signs of the End, the Great Commission",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 25,
+          "verse_end": 46
+        }
+      ]
+    },
+    {
+      "day": 296,
+      "title": "The Upper Room Farewell Discourse",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 13,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 297,
+      "title": "I Am the Vine, Abide in Me",
+      "readings": [
+        {
+          "book_id": 43,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 298,
+      "title": "Gethsemane Arrest and Trial",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 26,
+          "verse_start": 1,
+          "chapter_end": 27,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 299,
+      "title": "The Crucifixion, Jesus Cries Out",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 27,
+          "verse_start": 32,
+          "chapter_end": 27,
+          "verse_end": 66
+        },
+        {
+          "book_id": 43,
+          "chapter_start": 19,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 42
+        }
+      ]
+    },
+    {
+      "day": 300,
+      "title": "He Is Risen! The Tomb Is Empty",
+      "readings": [
+        {
+          "book_id": 40,
+          "chapter_start": 28,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 20
+        },
+        {
+          "book_id": 43,
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 301,
+      "title": "Appearances, Ascension, Go and Tell",
+      "readings": [
+        {
+          "book_id": 42,
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 24,
+          "verse_end": 53
+        },
+        {
+          "book_id": 41,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 302,
+      "title": "The Spirit Poured Out at Pentecost",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 303,
+      "title": "The Church Grows Through Suffering",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 304,
+      "title": "Stephen Martyred, Saul Persecutes",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 7,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 305,
+      "title": "Written to Scattered Believers",
+      "readings": [
+        {
+          "book_id": 59,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 306,
+      "title": "Wisdom, Patience and Faithful Prayer",
+      "readings": [
+        {
+          "book_id": 59,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 20
+        }
+      ]
+    },
+    {
+      "day": 307,
+      "title": "Paul Converted, Cornelius Receives Spirit",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 308,
+      "title": "Herod Kills James, Peter Escapes",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 52
+        }
+      ]
+    },
+    {
+      "day": 309,
+      "title": "First Missionary Journey, Paul Sent",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 15,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 310,
+      "title": "Faith Not Works of Law",
+      "readings": [
+        {
+          "book_id": 48,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 311,
+      "title": "Children of Promise Walk in Spirit",
+      "readings": [
+        {
+          "book_id": 48,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 312,
+      "title": "Paul Goes to Europe, Macedonia",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 16,
+          "verse_start": 1,
+          "chapter_end": 17,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 313,
+      "title": "First Thessalonians, Hope at the Coming",
+      "readings": [
+        {
+          "book_id": 52,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 314,
+      "title": "Live Holy, Wait for the Lord",
+      "readings": [
+        {
+          "book_id": 52,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 28
+        }
+      ]
+    },
+    {
+      "day": 315,
+      "title": "Second Thessalonians, Stand Firm",
+      "readings": [
+        {
+          "book_id": 53,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 316,
+      "title": "Paul in Corinth and Ephesus",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 18,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 41
+        }
+      ]
+    },
+    {
+      "day": 317,
+      "title": "Corinthians Divided, Paul Writes",
+      "readings": [
+        {
+          "book_id": 46,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 318,
+      "title": "Sexual Sin and Marriage Guidance",
+      "readings": [
+        {
+          "book_id": 46,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 319,
+      "title": "Idols, Worship and Spiritual Gifts",
+      "readings": [
+        {
+          "book_id": 46,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 34
+        }
+      ]
+    },
+    {
+      "day": 320,
+      "title": "Love Is the Greatest Gift",
+      "readings": [
+        {
+          "book_id": 46,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 14,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 321,
+      "title": "Resurrection Is Central to Faith",
+      "readings": [
+        {
+          "book_id": 46,
+          "chapter_start": 15,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 322,
+      "title": "Comfort, Affliction and Ministry",
+      "readings": [
+        {
+          "book_id": 47,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 323,
+      "title": "Ambassadors of Reconciliation",
+      "readings": [
+        {
+          "book_id": 47,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 324,
+      "title": "Generosity and Apostolic Defense",
+      "readings": [
+        {
+          "book_id": 47,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 325,
+      "title": "God's Righteousness Revealed",
+      "readings": [
+        {
+          "book_id": 45,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 326,
+      "title": "Justification, Peace and New Life",
+      "readings": [
+        {
+          "book_id": 45,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 39
+        }
+      ]
+    },
+    {
+      "day": 327,
+      "title": "Israel's Future and God's Mercy",
+      "readings": [
+        {
+          "book_id": 45,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 36
+        }
+      ]
+    },
+    {
+      "day": 328,
+      "title": "Living Sacrifices and Love Commands",
+      "readings": [
+        {
+          "book_id": 45,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 329,
+      "title": "Paul Journeys to Jerusalem and Rome",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 23,
+          "verse_end": 35
+        }
+      ]
+    },
+    {
+      "day": 330,
+      "title": "Paul Arrested, Defends Himself",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 24,
+          "verse_start": 1,
+          "chapter_end": 26,
+          "verse_end": 32
+        }
+      ]
+    },
+    {
+      "day": 331,
+      "title": "Shipwreck and Arrival in Rome",
+      "readings": [
+        {
+          "book_id": 44,
+          "chapter_start": 27,
+          "verse_start": 1,
+          "chapter_end": 28,
+          "verse_end": 31
+        }
+      ]
+    },
+    {
+      "day": 332,
+      "title": "Seated with Christ in Heavenly",
+      "readings": [
+        {
+          "book_id": 49,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 333,
+      "title": "Put on the Armor of God",
+      "readings": [
+        {
+          "book_id": 49,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 334,
+      "title": "Joy in Every Circumstance",
+      "readings": [
+        {
+          "book_id": 50,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 30
+        }
+      ]
+    },
+    {
+      "day": 335,
+      "title": "Press On Toward the Heavenly Goal",
+      "readings": [
+        {
+          "book_id": 50,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 336,
+      "title": "Christ, Supremacy and Fullness",
+      "readings": [
+        {
+          "book_id": 51,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 23
+        }
+      ]
+    },
+    {
+      "day": 337,
+      "title": "Hidden with Christ, New Life Lived",
+      "readings": [
+        {
+          "book_id": 51,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 338,
+      "title": "Receive Onesimus as Brother",
+      "readings": [
+        {
+          "book_id": 57,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 339,
+      "title": "Guard Sound Doctrine",
+      "readings": [
+        {
+          "book_id": 54,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 340,
+      "title": "Godliness and Leadership Instructions",
+      "readings": [
+        {
+          "book_id": 54,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 6,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 341,
+      "title": "Appoint Elders Sound Teaching",
+      "readings": [
+        {
+          "book_id": 56,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 342,
+      "title": "Fan Into Flame",
+      "readings": [
+        {
+          "book_id": 55,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 26
+        }
+      ]
+    },
+    {
+      "day": 343,
+      "title": "Preach the Word, Finish the Race",
+      "readings": [
+        {
+          "book_id": 55,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 344,
+      "title": "Jesus Greater Than All",
+      "readings": [
+        {
+          "book_id": 58,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 16
+        }
+      ]
+    },
+    {
+      "day": 345,
+      "title": "Our High Priest After Melchizedek",
+      "readings": [
+        {
+          "book_id": 58,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 8,
+          "verse_end": 13
+        }
+      ]
+    },
+    {
+      "day": 346,
+      "title": "A Better Covenant and Sacrifice",
+      "readings": [
+        {
+          "book_id": 58,
+          "chapter_start": 9,
+          "verse_start": 1,
+          "chapter_end": 11,
+          "verse_end": 40
+        }
+      ]
+    },
+    {
+      "day": 347,
+      "title": "Run with Endurance, Looking to Jesus",
+      "readings": [
+        {
+          "book_id": 58,
+          "chapter_start": 12,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 348,
+      "title": "Living, Hope in Suffering",
+      "readings": [
+        {
+          "book_id": 60,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 349,
+      "title": "Suffer Well As Faithful Stewards",
+      "readings": [
+        {
+          "book_id": 60,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 14
+        }
+      ]
+    },
+    {
+      "day": 350,
+      "title": "Grow in Grace and Knowledge",
+      "readings": [
+        {
+          "book_id": 61,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 22
+        }
+      ]
+    },
+    {
+      "day": 351,
+      "title": "The Day of the Lord Is Coming",
+      "readings": [
+        {
+          "book_id": 61,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 352,
+      "title": "Contend for the Faith Once Delivered",
+      "readings": [
+        {
+          "book_id": 65,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 25
+        }
+      ]
+    },
+    {
+      "day": 353,
+      "title": "God Is Light and Love",
+      "readings": [
+        {
+          "book_id": 62,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 3,
+          "verse_end": 24
+        }
+      ]
+    },
+    {
+      "day": 354,
+      "title": "Love One Another, Abide in Him",
+      "readings": [
+        {
+          "book_id": 62,
+          "chapter_start": 4,
+          "verse_start": 1,
+          "chapter_end": 5,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 355,
+      "title": "Walk in Truth",
+      "readings": [
+        {
+          "book_id": 63,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 13
+        },
+        {
+          "book_id": 64,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 1,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 356,
+      "title": "John Exiled, Letters to Seven Churches",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 1,
+          "verse_start": 1,
+          "chapter_end": 2,
+          "verse_end": 29
+        }
+      ]
+    },
+    {
+      "day": 357,
+      "title": "More Letters, Overcomers Receive Crowns",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 3,
+          "verse_start": 1,
+          "chapter_end": 4,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 358,
+      "title": "The Lamb Opens the Sealed Scroll",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 5,
+          "verse_start": 1,
+          "chapter_end": 7,
+          "verse_end": 17
+        }
+      ]
+    },
+    {
+      "day": 359,
+      "title": "Trumpets Sound and Woes Descend",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 8,
+          "verse_start": 1,
+          "chapter_end": 10,
+          "verse_end": 11
+        }
+      ]
+    },
+    {
+      "day": 360,
+      "title": "Two Witnesses the Dragon Appears",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 11,
+          "verse_start": 1,
+          "chapter_end": 13,
+          "verse_end": 18
+        }
+      ]
+    },
+    {
+      "day": 361,
+      "title": "The Lamb on Mount Zion Stands",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 14,
+          "verse_start": 1,
+          "chapter_end": 16,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 362,
+      "title": "Babylon Falls, the Great Harlot",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 17,
+          "verse_start": 1,
+          "chapter_end": 19,
+          "verse_end": 21
+        }
+      ]
+    },
+    {
+      "day": 363,
+      "title": "The Thousand Years, Satan Bound",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 20,
+          "verse_start": 1,
+          "chapter_end": 20,
+          "verse_end": 15
+        }
+      ]
+    },
+    {
+      "day": 364,
+      "title": "All Things New, the Holy City",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 21,
+          "verse_start": 1,
+          "chapter_end": 21,
+          "verse_end": 27
+        }
+      ]
+    },
+    {
+      "day": 365,
+      "title": "Come Lord Jesus, Alpha and Omega",
+      "readings": [
+        {
+          "book_id": 66,
+          "chapter_start": 22,
+          "verse_start": 1,
+          "chapter_end": 22,
+          "verse_end": 21
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-13",
+  "updated_at": "2026-04-16",
   "plans": [
     {
       "id": "psalms-proverbs-30",
@@ -9,10 +9,28 @@
       "long_description": "A focused month in the Bible's wisdom literature, pairing every chapter of Proverbs with a Psalm chosen for thematic resonance — Proverbs 1's opening call to fear of the Lord beside Psalm 1's blessed and the wicked, Proverbs 15's gentle answer beside Psalm 4's quiet trust, Proverbs 22's training of children beside Psalm 78's call to tell the next generation.\n\nDays are short — usually one Proverbs chapter and one Psalm — but the pairings invite slow reading. The Proverbs chapters move in canonical order; the Psalms jump around to follow the theme. Day 30 closes with Proverbs 30 (Agur's words) and Proverbs 31 (the worthy woman) alongside Psalm 103, a closing benediction.\n\nGood for: a month-long devotional pace, beginners to the wisdom books, or readers returning after a long break.",
       "category": "wisdom",
       "duration_days": 30,
-      "tags": ["wisdom", "devotional", "30-day"],
+      "tags": [
+        "wisdom",
+        "devotional",
+        "30-day"
+      ],
       "thumbnail_color": "#8B6914",
       "file_version": 2,
       "url": "https://raw.githubusercontent.com/rustycage27/SCRPTR-plans/main/plans/psalms-proverbs-30.json"
+    },
+    {
+      "id": "through-the-bible-chronologically-in-a-year",
+      "title": "Through the Bible Chronologically in a Year",
+      "description": "This is a 365-day chronological Bible reading plan that arranges scripture in the order events occurred historically, not canonical book order. The goal is for the reader to experience the Bible as a single unfolding story.",
+      "long_description": "Experience an intellectually compelling way to read the Bible! Seeing Job alongside the patriarchs, watching the Psalms land in the middle of Samuel and Kings, the prophets contextualized against the monarchy they were speaking into — it reframes the whole narrative.",
+      "category": "complete",
+      "duration_days": 365,
+      "tags": [
+        "comprehensive"
+      ],
+      "thumbnail_color": "#6B4F2A",
+      "file_version": 1,
+      "url": "https://raw.githubusercontent.com/rustycage27/SCRPTR-plans/main/plans/through-the-bible-chronologically-in-a-year.json"
     }
   ]
 }
